@@ -1,0 +1,124 @@
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.exe
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.deps.json
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.runtimeconfig.json
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.pdb
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.csproj.AssemblyReference.cache
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.AssemblyInfoInputs.cache
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.AssemblyInfo.cs
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.NewFilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.NewFilmesAPI.props
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NewFilmesAPI.props
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NewFilmesAPI.props
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\scopedcss\bundle\NewFilmesAPI.styles.css
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.csproj.CopyComplete
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\refint\NewFilmesAPI.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.pdb
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.genruntimeconfig.cache
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\ref\NewFilmesAPI.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.xml
+C:\Users\mateus.gabriel\Documents\Mateus\Alura\C#\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.xml
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.exe
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.deps.json
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.runtimeconfig.json
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.pdb
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\NewFilmesAPI.xml
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.AssemblyInfo.cs
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.NewFilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.NewFilmesAPI.props
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NewFilmesAPI.props
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NewFilmesAPI.props
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\scopedcss\bundle\NewFilmesAPI.styles.css
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.csproj.CopyComplete
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\refint\NewFilmesAPI.dll
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.xml
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.pdb
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\NewFilmesAPI.genruntimeconfig.cache
+C:\Users\Mateus Gabriel\Documents\workspace\CSharp\NewFilmesAPI\NewFilmesAPI\obj\Debug\net6.0\ref\NewFilmesAPI.dll
